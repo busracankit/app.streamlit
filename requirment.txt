@@ -1,7 +1,4 @@
 streamlit
-
-graphviz
-
 PyMuPDF
-
+graphviz
 regex
